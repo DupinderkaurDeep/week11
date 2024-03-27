@@ -21,5 +21,23 @@
        "type": "milkshake-ice-cream",
        "ingredients": ["Strawberry Syrup", "Sprinkles", "Vanilla Base", "Chocolate Syrup"],
        "image" : "https://dupinderkaurdeep.github.io/week11js/images/strawberry-sprinkle.svg" 
-   }]
+   },{
+    "name" : "Lemon Zest Syrup" , 
+    "calories" : 440,
+    "type" : "Tangy-ice-cream" , 
+    "ingredients"  : ["Lemon Syrup " , "Lime " , "Sugar Base "],
+    "image" : "https://dupinderkaurdeep.github.io/week11js/images/ice-cream-xtra1.svg" 
+   
+},
+{
+    "name" : "Jelly Sprinkle" , 
+    "calories" : 370,
+    "type" : "Jelly-ice-cream" , 
+    "ingredients"  : ["Fruit Syrup " , "Jelly" , "Fri Base "],
+    "image" : "https://dupinderkaurdeep.github.io/week11js/images/ice-cream-xtra2.svg" 
+   
+}
+
+
+]
 }
